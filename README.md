@@ -15,6 +15,9 @@ materials from current or past employers.
 - **Bug Reports**
   - `bug-reports/sauce-demo-bug-report-samples.md`
 
+- **Test Execution Summary**
+  - `test-plan/sauce-demo-test-execution-summary.md`
+
 ## Demo Application
 - Sauce Demo: https://www.saucedemo.com
 
