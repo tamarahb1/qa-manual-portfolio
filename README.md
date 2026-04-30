@@ -1,10 +1,10 @@
 # QA Manual Testing Portfolio
 
-This repository showcases a complete manual QA testing cycle created
-using a public demo web application.
+This repository showcases my approach to software testing, system validation, and workflow analysis across web applications.
 
-All documentation uses fictional data and does not include any
-proprietary or confidential materials from current or past employers.
+My background in QA has given me a strong understanding of how systems behave in real-world environments. I focus on identifying defects, validating data integrity, and improving system reliability.
+
+As I continue transitioning into software engineering, I am expanding this work to include automation and scripting to support scalable testing and development processes.
 
 ## Project Overview
 - Application Tested: Sauce Demo (https://www.saucedemo.com)
